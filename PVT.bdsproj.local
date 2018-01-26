@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/01/04 09:40:46.036.bdsproj,C:\Users\kylab\Documents\RAD Studio\Projects\Project1.bdsproj=C:\Users\kylab\Documents\RAD Studio\Projects\PVT.bdsproj</Transaction>
+    <Transaction>2018/01/04 09:40:59.216.pas,C:\Users\kylab\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\kylab\Documents\RAD Studio\Projects\FrmPVT.pas</Transaction>
+    <Transaction>2018/01/04 09:40:59.216.dfm,C:\Users\kylab\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\kylab\Documents\RAD Studio\Projects\FrmPVT.dfm</Transaction>
+    <Transaction>2018/01/04 09:41:21.339.pas,C:\Users\kylab\Documents\RAD Studio\Projects\FrmPVT.pas=E:\Delphi\Tool_PVT\FrmPVT.pas</Transaction>
+    <Transaction>2018/01/04 09:41:21.339.dfm,C:\Users\kylab\Documents\RAD Studio\Projects\FrmPVT.dfm=E:\Delphi\Tool_PVT\FrmPVT.dfm</Transaction>
+    <Transaction>2018/01/04 09:41:23.563.bdsproj,C:\Users\kylab\Documents\RAD Studio\Projects\PVT.bdsproj=E:\Delphi\Tool_PVT\PVT.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
